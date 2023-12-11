@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: dnd-controller-LILBROCODES
+Version: 0.0.1
+Summary: Library using pygame that lets you create custom dnd campaigns, with custom Character classes. 
+Author-email: LilBroCodes <lilbrocodes@gmail.com>
+Project-URL: Homepage, https://github.com/LilBroCodes/DNDController/
+Project-URL: Issues, https://github.com/LilBroCodes/DNDController/issues/
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown

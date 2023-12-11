@@ -16,7 +16,7 @@ setup(
     keywords=["DND", "Pygame", "Game controller"],
     classifiers=[
         "Development Status :: 3 - Alpha",
-        "Intended Audience :: Gaming",
+        "Intended Audience :: Education",
         "Programming Language :: Python :: 2",
         "Programming Language :: Python :: 3",
         "Operating System :: MacOS :: MacOS X",

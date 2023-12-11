@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: dnd-controller
+Version: 0.0.1
+Summary: DND Controller library using pygame
+Author: LilBroCodes
+Author-email: lilbrocodes@gmail.com
+Keywords: DND,Pygame,Game controller
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Gaming
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Dist: pygame
+
+Library using pygame that lets you create custom dnd campaigns, with custom Character classes. 
